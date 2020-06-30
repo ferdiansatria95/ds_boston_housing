@@ -11,4 +11,8 @@ This is my regression problem project for prediciting house price.
  - Packages: pandas, numpy, sklearn, matplotlib, seaborn, jcopml
  - Dataset: https://www.kaggle.com/vikrishnan/boston-house-prices
  - Further Information about jcopml : https://github.com/WiraDKP/supervised_learning
+ 
+ ## Run
+ 
+ Open [View Project Code](https://github.com/ferdiansatria95/ds_boston_housing/blob/master/df_house_price.ipynb)
 
